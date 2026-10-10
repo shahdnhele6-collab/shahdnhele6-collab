@@ -80,8 +80,9 @@ Learning, practicing, and building projects one step at a time ✨
 ## 💜 My Coding Journey
 
 <div align="center">
+  
+<img src="./images/girl-developer.png" width="40%" alt="Girl Developer"/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="40%" alt="Developer"/>
 
 Learn 📚 → Practice 💻 → Debug 🐛 → Improve 🚀
 
