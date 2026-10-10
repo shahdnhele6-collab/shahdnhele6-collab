@@ -72,7 +72,8 @@ Learning, practicing, and building projects one step at a time ✨
 
 <div align="center">
 <img src="https://github-trending-notes.vercel.app/_next/image?q=75&url=%2Fanime-coder.png&w=3840" width="70%" alt="Purple Hair Anime Girl Coding with Robot"/>
-Learn 📚 → Practice 💻 → Debug 🐛 → Improve 🚀
+  
+Learn 📚 → Practice 💻 → Debug 🐛→ Improve 🚀
 </div>
 
 <div align="center">
