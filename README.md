@@ -3,7 +3,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/>
 
 # Hi, I'm Shahd 👋💜
-
 ### 💜 Flutter Developer in Progress
 
 Learning, practicing, and building projects one step at a time ✨
@@ -80,9 +79,8 @@ Learning, practicing, and building projects one step at a time ✨
 ## 💜 My Coding Journey
 
 <div align="center">
-  
-<img src="./images/girl-developer.png" width="40%" alt="Girl Developer"/>
 
+<img src="https://github-trending-notes.vercel.app/_next/image?q=75&url=%2Fanime-coder.png&w=3840" width="70%" alt="Purple Hair Anime Girl Coding with Robot"/>
 
 Learn 📚 → Practice 💻 → Debug 🐛 → Improve 🚀
 
