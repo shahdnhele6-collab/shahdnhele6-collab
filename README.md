@@ -24,13 +24,14 @@ Learning, practicing, and building projects one step at a time ✨
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 - 👋 Hi! I'm Shahd.
-- 📱 I'm currently learning Flutter and Dart.
-- 💻 I also know C++ and Python.
-- 🌱 I'm improving my skills through practice and personal projects.
-- ✨ I enjoy learning, solving problems, and building useful applications.
+- 📱 I'm learning Flutter and Dart.
+- 💻 I work with C++, Python, HTML, and CSS.
+- 🧩 I'm learning and practicing Object-Oriented Programming (OOP).
+- 🌱 I enjoy improving my skills through practice and personal projects.
+- ✨ I love learning, solving problems, and building useful applications.
 
 ---
 
